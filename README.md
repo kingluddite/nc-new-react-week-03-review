@@ -1,8 +1,8 @@
 # Review React Wk 3
 
 ## Branches
-* main 
-* 01-ternary-operator-js (current)
+* main (current) 
+* 01-ternary-operator-js
 * 02-ternary-operator-react
 * 03-useEffect-hook
 * 04-css-in-react
@@ -14,3 +14,6 @@
 * 10-useRef-hook
 * 11-uncontrolled-forms
 * 12-formik
+
+## Summary
+* Review core material from this weeks exercises
