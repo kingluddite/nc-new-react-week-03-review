@@ -7,8 +7,8 @@
 * 03-useEffect-hook 
 * 04-css-in-react 
 * 05-react-spring 
-* 06-computed-properties (current)
-* 07-spread-syntax
+* 06-computed-properties
+* 07-spread-syntax (current)
 * 08-regular-expressions
 * 09-forms-in-react
 * 10-useRef-hook
