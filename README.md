@@ -3,8 +3,8 @@
 ## Branches
 * main 
 * 01-ternary-operator-js 
-* 02-ternary-operator-react (current)
-* 03-useEffect-hook
+* 02-ternary-operator-react 
+* 03-useEffect-hook (current)
 * 04-css-in-react
 * 05-react-spring
 * 06-computed-properties
