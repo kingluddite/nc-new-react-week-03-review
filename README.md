@@ -6,8 +6,8 @@
 * 02-ternary-operator-react 
 * 03-useEffect-hook 
 * 04-css-in-react 
-* 05-react-spring (current)
-* 06-computed-properties
+* 05-react-spring 
+* 06-computed-properties (current)
 * 07-spread-syntax
 * 08-regular-expressions
 * 09-forms-in-react
