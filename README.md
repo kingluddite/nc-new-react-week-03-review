@@ -11,6 +11,6 @@
 * 07-spread-syntax
 * 08-regular-expressions
 * 09-forms-in-react
-* 10-useRef-hook (current)
-* 11-uncontrolled-forms
+* 10-useRef-hook
+* 11-uncontrolled-forms (current)
 * 12-formik
