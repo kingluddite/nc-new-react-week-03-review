@@ -12,5 +12,5 @@
 * 08-regular-expressions
 * 09-forms-in-react
 * 10-useRef-hook
-* 11-uncontrolled-forms (current)
-* 12-formik
+* 11-uncontrolled-forms
+* 12-formik (current)
