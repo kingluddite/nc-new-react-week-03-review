@@ -31,3 +31,4 @@
 ```
 
 * You will have two App.js (ControllAppOne.js and ControllAppTwo.js) - rename them to App.js to see how they work
+* And AppFormik too
