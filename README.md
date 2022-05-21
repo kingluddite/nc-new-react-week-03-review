@@ -2,8 +2,8 @@
 
 ## Branches
 * main 
-* 01-ternary-operator-js (current)
-* 02-ternary-operator-react
+* 01-ternary-operator-js 
+* 02-ternary-operator-react (current)
 * 03-useEffect-hook
 * 04-css-in-react
 * 05-react-spring
