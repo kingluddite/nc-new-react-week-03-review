@@ -18,3 +18,4 @@ function App() {
 }
 
 export default App
+// source: https://codesource.io/how-to-use-ternary-operator-in-react/
