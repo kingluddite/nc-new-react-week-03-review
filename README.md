@@ -9,8 +9,8 @@
 * 05-react-spring 
 * 06-computed-properties
 * 07-spread-syntax
-* 08-regular-expressions (current)
-* 09-forms-in-react
+* 08-regular-expressions
+* 09-forms-in-react (current)
 * 10-useRef-hook
 * 11-uncontrolled-forms
 * 12-formik
