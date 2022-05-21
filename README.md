@@ -14,3 +14,10 @@
 * 10-useRef-hook
 * 11-uncontrolled-forms (current)
 * 12-formik
+
+## Uncontrolled forms
+* Typically uses a `reference` to get the form data
+* We control the state of our form **imperatively**
+* Quick and dirty
+* A tool you can use, but not as powerful as `controlled forms` in React
+* UI and form state are NOT IN SYNC
