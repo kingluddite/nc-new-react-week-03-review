@@ -4,8 +4,8 @@
 * main 
 * 01-ternary-operator-js 
 * 02-ternary-operator-react 
-* 03-useEffect-hook (current)
-* 04-css-in-react
+* 03-useEffect-hook 
+* 04-css-in-react (current)
 * 05-react-spring
 * 06-computed-properties
 * 07-spread-syntax
