@@ -10,7 +10,7 @@
 * 06-computed-properties
 * 07-spread-syntax
 * 08-regular-expressions
-* 09-forms-in-react (current)
-* 10-useRef-hook
+* 09-forms-in-react
+* 10-useRef-hook (current)
 * 11-uncontrolled-forms
 * 12-formik
